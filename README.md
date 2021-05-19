@@ -1,2 +1,2 @@
-# FuelCellVehicle
-The core goal of this project is to demonstrate that a fuel cell can be used as an input source to an electrical vehicle under controlled conditions.
+# FuelCell Vehicle
+The core goal of this project is to develop a Quasi-Z-source boost DC-DC converter which boost the fuel cell voltage to run a motor.
